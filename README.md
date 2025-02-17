@@ -1,4 +1,5 @@
 Face & Eye Detection App 👁️‍🗨️
+
 Overview
 This Face & Eye Detection App leverages Haar cascades to detect faces and eyes in both images and real-time webcam footage. Built with Streamlit for a clean and interactive interface, this app allows users to upload images or use their webcam for detection. Once detected, the app highlights faces with rectangles and labels the detected faces and eyes for better clarity.
 
@@ -19,7 +20,6 @@ NumPy: Used for efficient image processing and manipulation.
 Installation
 To run this app on your local machine, follow these steps:
 
-Your browser should automatically open with the app running on http://localhost:8501.
 
 Usage
 1. Face & Eye Detection from Image
